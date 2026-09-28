@@ -1,5 +1,7 @@
 # ZhuaTech ITSM 社区源码版
 
+[简体中文](README.md) | [English](README.en.md)
+
 ## 企业级增强：重大事件关闭治理
 
 新增恢复稳定期、终结通报、安全复核、时间线、根因、纠正措施和关联记录门禁，详见 [重大事件关闭治理](docs/ENTERPRISE_INCIDENT_CLOSURE.md)。
